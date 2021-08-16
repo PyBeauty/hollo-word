@@ -1,2 +1,3 @@
 # hollo-word
-Beauty 
+Beauty Shop 
+Beauty & Salon 
